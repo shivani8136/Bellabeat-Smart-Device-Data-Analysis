@@ -74,7 +74,7 @@ The sleeptime of the users is always less than the recommended 8 hours (480 minu
 
 There is a negative correlation between the sedentary minutes and the minutes asleep. This shows that higher the sedentary minutes, lower is the sleep time.
 
-**Relation between time of the day, day of the week, active time**
+**6. Relation between time of the day, day of the week, active time**
 
 <img src="https://github.com/shivani8136/Bellabeat-Smart-Device-Data-Analysis/blob/main/images/Heatmap%20image.png" alt="Viz Image">
 
