@@ -90,5 +90,5 @@ Based on my analysis of the smart device data, I would provide the following rec
 ---
 This analysis was performed in **R** and is hosted on Kaggle.
 
-🔗 [Open the full Kaggle notebook here](https://www.kaggle.com/code/shivani8136/bellabeat-case-study-r)
+🔗 [View the full Kaggle notebook here](https://www.kaggle.com/code/shivani8136/bellabeat-case-study-r)
 
