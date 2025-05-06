@@ -1,4 +1,3 @@
-
 # Bellabeat Smart Device Data Analysis for Product Strategy
 
 ## About the company
@@ -25,8 +24,8 @@ Dataset is from https://www.kaggle.com/datasets/arashnic/fitbit which is an open
 
 The dataset is:
 
-* **Reliable**: The data is from 30 eligible FitBit users who consented to the submission of personal tracker data to a distributed survey via Amazon Mechanical Turk.
-* **Original**: The data is from 30 eligible FitBit users who consented to the submission of personal tracker data to a distributed survey via Amazon Mechanical Turk.
+* **Reliable**: The data is from 30 eligible Bellabeat users who consented to the submission of personal tracker data to a distributed survey via Amazon Mechanical Turk.
+* **Original**: The data is from 30 eligible Bellabeat users who consented to the submission of personal tracker data to a distributed survey via Amazon Mechanical Turk.
 * **Comprehensive**: The personal tracker data includes minute-level output for physical activity, heart rate, and sleep monitoring.
 * **Cited**: Furberg, Robert; Brinton, Julia; Keating, Michael ; Ortiz, Alexa https://zenodo.org/record/53894#.YMoUpnVKiP9
 
@@ -34,15 +33,13 @@ We have been provided with 18 CSV documents with each document representing the 
 
 The **limitations of the dataset** include:
 
-Extremely small sample size.
-The data is outdated as it was collected from March 2016 to May 2016.
-Details like the age, geographical location of the Fitbit user is not available. Moreover, Bellabeat is a women's fitness-based company, hence there is no proper representation across genders.
+* Extremely small sample size.
+* The data is outdated as it was collected from March 2016 to May 2016.
+* Details like the age, geographical location of the Bellabeat user is not available. Moreover, Bellabeat is a women's fitness-based company, hence there is no proper representation across genders.
 These conditions could lead to sampling bias.
 
 
 ## Executive Summary
-
-### Overview of Findings
 
 **1. Calories vs steps**
 
@@ -66,7 +63,7 @@ Users walk the daily recommended count of 7500 steps on all the days except for 
 
 <img src="https://www.kaggleusercontent.com/kf/235179192/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..XyhqfU0QeReDEoNmzQoH8Q.c5HDUUpuBf6YxuKMdEMsEIXishkq17c-0erJWrG-3FWiHTtnamu4tXK9QbYHFQ0uDLYybiQeX4zRmKXJIOt29w3KXn5rKonwKq5Qq72WaMC8MwN1SMWNwc4XBqzT_u6rIB8rEthRNl9GVVoyVGbJIbks43eZ9YrApGhmOK4teVovE_ueakzpy79IIvMt19_HKILNBbDOITlZye4MTHE0SgMjUNm6KPDafVIUNxm6PWtcLCTM7p8alxklgQxpnjDxPBoLuUAi_SfnGh6Dw_0kyar-xuGt0KsJ9a6Ri68BroT21vofY8ISA8gCd9D4dnNY-c4BqNKzERUhyvmOh4tT-VAZH-2_q7a0Y9DjTzm0aYHyrQSPL-9iV8SfyiI8kMmptyYYLnJ67Ojdxz66hJ5X8MYkDdV0CgCfN6zaXAt_MF2WcDkzemZHnvIrsSr5vYhfxmVmlU5Q1giRBtk3wNtmrUThfPP3t9utZyXqvuZCJgdEkd69E_WquD2Q7VRFISRHz1JZLQuuCrk0rkGmtwe4GHQ_HRkbOhSFcYey441XrbYywluMc-L_ZJnI0nKhxcxt1It7HqtkeUMkuiItyr13nzTE37yJAy5pNKg8YgHG-Y6k4v8juSzwN3XrYYOx8PPSXf9QBIjXKbvX-q74OxS6nA.78spGWXnLcDGxAT2kV230A/__results___files/__results___39_0.png" alt="Viz Image" width="400" height="450">
 
-The sleeptime of the users is always less than the recommended 8 hours (480 minutes) of sleep.
+The sleep time of the users is always less than the recommended 8 hours (480 minutes) of sleep.
 
 **5. Sedentary minutes vs minutes asleep**
 
@@ -80,7 +77,6 @@ There is a negative correlation between the sedentary minutes and the minutes as
 
 We can see that the users are more active between 7am and 6pm. Most of the walking takes place before lunch time from 11am to 12pm and in the evenings between 4pm and 6pm.
 
-
 ### Recommendations
 
 Based on my analysis of the smart device data, I would provide the following recommendations to the product team at Bellabeat.
@@ -90,4 +86,9 @@ Based on my analysis of the smart device data, I would provide the following rec
 2. **Mandatory weight information update**: Users will have to enter their weight information mandatorily on a daily basis. This will help the users track their weight loss/maintenance journey effectively.
 
 3. **Notifications to reduce sedentary time**: Users will receive a notification if they are found to be sedentary for a continuous period of time during the day.
+
+---
+This analysis was performed in **R** and is hosted on Kaggle.
+
+🔗 [Open the full Kaggle notebook here](https://www.kaggle.com/code/shivani8136/bellabeat-case-study-r)
 
