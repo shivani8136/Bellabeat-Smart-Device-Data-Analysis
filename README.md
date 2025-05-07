@@ -2,6 +2,8 @@
 
 ## About the company
 
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKHzAfpIe2A7xzX7CH7sBY2iuQaAW2hRLgBQEuKIx_06m3jYamvRYcTmIXHYFRLbYZwxg&usqp=CAU)
+
 Bellabeat is a high-tech company that manufactures health-focused smart products. They offer different smart devices that collect data on activity, sleep, stress, and reproductive health to empower women with knowledge about their own health and habits.
 
 ## Stakeholders
@@ -13,9 +15,6 @@ Bellabeat is a high-tech company that manufactures health-focused smart products
 ## Business task
 
 Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will help guide the company's product strategy, enabling the team to prioritize features that enhance user engagement, promote healthier habits, and align with user behavior patterns.
-
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKHzAfpIe2A7xzX7CH7sBY2iuQaAW2hRLgBQEuKIx_06m3jYamvRYcTmIXHYFRLbYZwxg&usqp=CAU)
 
 
 ## Data - Source and Integrity
