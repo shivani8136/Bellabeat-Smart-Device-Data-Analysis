@@ -1,20 +1,22 @@
-# Bellabeat Smart Device Data Analysis for Product Strategy
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKHzAfpIe2A7xzX7CH7sBY2iuQaAW2hRLgBQEuKIx_06m3jYamvRYcTmIXHYFRLbYZwxg&usqp=CAU" alt="Bellabeat Logo"/>
+</p>
+
+
 
 ## About the company
-
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKHzAfpIe2A7xzX7CH7sBY2iuQaAW2hRLgBQEuKIx_06m3jYamvRYcTmIXHYFRLbYZwxg&usqp=CAU)
 
 Bellabeat is a high-tech company that manufactures health-focused smart products. They offer different smart devices that collect data on activity, sleep, stress, and reproductive health to empower women with knowledge about their own health and habits.
 
 ## Stakeholders
 
-* Urška Sršen: Bellabeat’s cofounder and Chief Creative Officer
-* Sando Mur: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
-* Bellabeat product analytics team: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s product strategy.
+* **Urška Sršen**: Bellabeat’s cofounder and Chief Creative Officer
+* **Sando Mur**: Mathematician and Bellabeat’s cofounder; key member of the Bellabeat executive team
+* **Bellabeat product analytics team**: A team of data analysts responsible for collecting, analyzing, and reporting data that helps guide Bellabeat’s product strategy.
 
 ## Business task
 
-Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will help guide the company's product strategy, enabling the team to prioritize features that enhance user engagement, promote healthier habits, and align with user behavior patterns.
+Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The insights you discover will help **guide the company's product strategy**, enabling the team to prioritize features that enhance user engagement, promote healthier habits, and align with user behavior patterns.
 
 
 ## Data - Source and Integrity
@@ -76,7 +78,7 @@ There is a negative correlation between the sedentary minutes and the minutes as
 
 We can see that the users are more active between 7am and 6pm. Most of the walking takes place before lunch time from 11am to 12pm and in the evenings between 4pm and 6pm.
 
-### Recommendations
+## Recommendations
 
 Based on my analysis of the smart device data, I would provide the following recommendations to the product team at Bellabeat.
 
